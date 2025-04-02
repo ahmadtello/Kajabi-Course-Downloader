@@ -45,6 +45,7 @@ pip install -r requirements.txt
 ```
 KAJABI_EMAIL=your_email@example.com
 KAJABI_PASSWORD=your_password
+KAJABI_URL=login_page_URL
 ```
 
 5. Configure the application by editing `config.ini`:
