@@ -1,0 +1,8 @@
+/.env
+/debug_log.txt
+/download_errors.txt
+/download_log.csv
+/Kajabi_Courses
+/migrate_csv_to_mongo.py
+/validation_results.csv
+/venv
